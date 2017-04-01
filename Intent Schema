@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent": "PowerIntent"
+    },
+    {
+      "intent": "RaiseVolumeIntent"
+    },
+    {
+      "intent": "LowerVolumeIntent"
+    },
+    {
+      "intent": "MuteIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
