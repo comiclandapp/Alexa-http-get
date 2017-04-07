@@ -9,7 +9,7 @@
 // Please customize the following settings
 //
 const char* ssid = "YOUR-SSID"; // WiFi SSID
-const char* password = "YOUR-WIFI-PASWORD"; // WiFi password
+const char* password = "YOUR-WIFI-PASSWORD"; // WiFi password
 const char* passcode = "pass"; // Access code to send IR commands
 const int port = YOUR-PORT; //  Receiving HTTP port
 
